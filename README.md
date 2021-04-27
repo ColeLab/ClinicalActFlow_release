@@ -5,10 +5,6 @@ Code for LJ Hearne, RD Mill, BP Keane, G Repovs, A Anticevic, MW Cole (2021) _Ac
 
 [Published paper is available here](https://linktogohere)
 
-This code was run on a compute cluster at Rutgers (https://oarc.rutgers.edu/). The intention of this code release is to enable others to adapt and use the code for their needs - not as a package. If you are interested in the analyses I point you towards the [_activity flow toolbox_](https://colelab.github.io/ActflowToolbox/), a proper code base with documentation etc.,
+This code was run on a compute cluster at Rutgers (https://oarc.rutgers.edu/). The intention of this code release is to enable others to adapt and use the code for their needs. If you are interested in the analyses I would recommend you check out the [__activity flow toolbox__](https://colelab.github.io/ActflowToolbox/) developed by the Cole Lab. The toolbox contains user friendly functions and documentation to perform activity flow mapping. Its development has continued after this project finished, so it would be best practice to use the toolbox (rather than this code).
 
-Feel free to e-mail me with questions.
-
-Email: luke [dot] hearne [at] gmail [dot] com
-
-## General organization
+Feel free to e-mail me with questions at luke [dot] hearne [at] gmail [dot] com
